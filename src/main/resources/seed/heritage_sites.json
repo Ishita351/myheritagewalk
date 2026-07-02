@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Taj Mahal",
+    "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife. It represents the jewel of Muslim art in India and one of the universally admired masterpieces of the world heritage.",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "state": "Uttar Pradesh",
+    "category": "Cultural"
+  },
+  {
+    "name": "Qutub Minar and its Monuments",
+    "description": "Red sandstone tower of 72.5 m height, built in the early 13th century. The surrounding archaeological area contains funerary buildings, particularly the Alai-Darwaza Gate, a masterpiece of Indo-Muslim art, and the Quwwat-ul-Islam Mosque.",
+    "latitude": 28.5244,
+    "longitude": 77.1855,
+    "state": "Delhi",
+    "category": "Cultural"
+  },
+  {
+    "name": "Group of Monuments at Hampi",
+    "description": "The austere, grandiose site of Hampi was the last capital of the great Hindu Kingdom of Vijayanagara. Rich princes built temples and palaces that won the admiration of travelers between the 14th and 16th centuries.",
+    "latitude": 15.3350,
+    "longitude": 76.4600,
+    "state": "Karnataka",
+    "category": "Cultural"
+  },
+  {
+    "name": "Ajanta Caves",
+    "description": "The first Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries B.C. During the Gupta period (5th and 6th centuries A.D.), many more richly decorated caves were added. The paintings and sculptures are masterpieces of Buddhist religious art.",
+    "latitude": 20.5519,
+    "longitude": 75.7033,
+    "state": "Maharashtra",
+    "category": "Cultural"
+  },
+  {
+    "name": "Sun Temple, Konark",
+    "description": "On the shores of the Bay of Bengal, bathed in the rays of the rising sun, the temple at Konark is a monumental representation of the sun god Surya's chariot. Built in the 13th century, it is one of India's most famous Brahman sanctuaries.",
+    "latitude": 19.8876,
+    "longitude": 86.0945,
+    "state": "Odisha",
+    "category": "Cultural"
+  },
+  {
+    "name": "Humayun's Tomb, Delhi",
+    "description": "Built in 1570, this tomb has particular cultural significance as it was the first garden-tomb on the Indian subcontinent. It inspired several major architectural innovations, culminating in the construction of the Taj Mahal.",
+    "latitude": 28.5933,
+    "longitude": 77.2507,
+    "state": "Delhi",
+    "category": "Cultural"
+  },
+  {
+    "name": "Red Fort Complex",
+    "description": "Built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive red sandstone walls, it is adjacent to an older fort, the Salimgarh, representing Mughal architectural zenith.",
+    "latitude": 28.6562,
+    "longitude": 77.2410,
+    "state": "Delhi",
+    "category": "Cultural"
+  },
+  {
+    "name": "Group of Monuments at Mahabalipuram",
+    "description": "Founded by the Pallava kings in the 7th and 8th centuries on the Coromandel coast. The monuments are carved out of rock along the coast: rathas (temples in the form of chariots), mandapas (cave sanctuaries), and the famous Shore Temple.",
+    "latitude": 12.6269,
+    "longitude": 80.1927,
+    "state": "Tamil Nadu",
+    "category": "Cultural"
+  },
+  {
+    "name": "Sundarbans National Park",
+    "description": "The Sundarbans covers 10,000 km2 of land and water, in the Ganges delta. It contains the world's largest area of mangrove forests and is famous for its population of Royal Bengal Tigers, aquatic mammals, birds, and reptiles.",
+    "latitude": 21.9497,
+    "longitude": 89.1800,
+    "state": "West Bengal",
+    "category": "Natural"
+  },
+  {
+    "name": "Kaziranga National Park",
+    "description": "In the heart of Assam, this park is one of the last areas in eastern India undisturbed by a human presence. It is inhabited by the world's largest population of one-horned rhinoceroses, as well as tigers, elephants, and panthers.",
+    "latitude": 26.6667,
+    "longitude": 93.3333,
+    "state": "Assam",
+    "category": "Natural"
+  },
+  {
+    "name": "Ellora Caves",
+    "description": "These 34 monasteries and temples, dug side by side in the wall of a high basalt cliff near Aurangabad, bring civilisations of ancient India to life, with monuments dedicated to Buddhism, Hinduism, and Jainism from the 6th to 10th centuries.",
+    "latitude": 20.0268,
+    "longitude": 75.1772,
+    "state": "Maharashtra",
+    "category": "Cultural"
+  },
+  {
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "description": "Formerly known as Victoria Terminus, it is an outstanding example of Victorian Gothic Revival architecture in India, blended with themes deriving from Indian traditional architecture, designed by F. W. Stevens (est. 1888).",
+    "latitude": 18.9400,
+    "longitude": 72.8353,
+    "state": "Maharashtra",
+    "category": "Cultural"
+  }
+]

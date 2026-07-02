@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+
+    <persistence-unit name="myheritagewalk-pu" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        
+        <class>com.myheritagewalk.model.User</class>
+        <class>com.myheritagewalk.model.HeritageSite</class>
+        <class>com.myheritagewalk.model.UserSelection</class>
+
+        <properties>
+            <!-- Database Connection Settings -->
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://db:3306/myheritagewalk?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC" />
+            <property name="javax.persistence.jdbc.user" value="root" />
+            <property name="javax.persistence.jdbc.password" value="rootpassword" />
+
+            <!-- Hibernate Dialect -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
+
+            <!-- Database Schema Auto-Creation -->
+            <property name="hibernate.hbm2ddl.auto" value="update" />
+
+            <!-- Debugging SQL Output -->
+            <property name="hibernate.show_sql" value="true" />
+            <property name="hibernate.format_sql" value="true" />
+            
+            <!-- Connection Pool Tuning -->
+            <property name="hibernate.connection.pool_size" value="10"/>
+        </properties>
+    </persistence-unit>
+</persistence>
